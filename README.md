@@ -1,13 +1,33 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm Nilam Wadhavane</h1>
-<h3 align="center">Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future. Eagerly looking for a placement in elite tech companies and am always in need of a referral, which might help in my purpose.</h3>
+<h1 align="center">👋 Hi, I'm Nilam Wadhavane!
+💻 Data Scientist | Machine Learning Engineer | Prompt Engineer | Cloud AI Enthusiast
+
+🌍 Pune, India | 📧 nilamwadhavane123@gmail.com</h1>
+<h3 align="center">🚀 About Me
+🔬 Passionate about Data Science, Machine Learning, Deep Learning, and Prompt Engineering, I specialize in building AI-powered solutions, optimizing LLMs, and designing effective AI prompts for various applications.
+
+💡 Always eager to learn, experiment, and collaborate on innovative AI & NLP projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilam1406&label=Profile%20views&color=0e75b6&style=flat" alt="nilam1406" /> </p>
 
-- 🌱 I’m currently learning **Advance Data Structures and Algorithms, WordPress Development, Artificial intelligence and Machine Learning, Data Science, Cloud Computing**
+- 🌱 I’m currently working on
+      - Real-Time Anomaly Detection using Machine Learning & GCP
 
-- 💬 Ask me about **Competitive Coding, Data Structures and Algorithms, OOPs, DBMS, Java, and Web Development**
+      - LLM-based AI Solutions & Prompt Engineering
+
+      - Audio Quality Classification using Deep Learning
+
+      - Exploring MLOps, Generative AI, and Large Language Models (LLMs)**
+
+- 📚 Currently Learning
+      - Advanced Prompt Engineering for LLMs (GPT, Gemini, Claude, Llama)
+
+      - MLOps & AI Model Deployment on Cloud
+
+      - Big Data Processing with Apache Beam & Spark
+
+      - Reinforcement Learning & Generative AI
 
 - 📫 How to reach me **nilamwadhavane123@gmail.com**
 
