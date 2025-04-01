@@ -3,7 +3,7 @@
 💻 Data Scientist | Machine Learning Engineer | Prompt Engineer | Cloud AI Enthusiast
 
 🌍 Pune, India | 📧 nilamwadhavane123@gmail.com</h1>
-<h3 align="center">🚀 About Me
+<h3 align="center">
 🔬 Passionate about Data Science, Machine Learning, Deep Learning, and Prompt Engineering, I specialize in building AI-powered solutions, optimizing LLMs, and designing effective AI prompts for various applications.
 
 💡 Always eager to learn, experiment, and collaborate on innovative AI & NLP projects.</h3>
@@ -11,24 +11,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilam1406&label=Profile%20views&color=0e75b6&style=flat" alt="nilam1406" /> </p>
 
-- 🌱 I’m currently working on
-      - Real-Time Anomaly Detection using Machine Learning & GCP
-
-      - LLM-based AI Solutions & Prompt Engineering
-
-      - Audio Quality Classification using Deep Learning
-
-      - Exploring MLOps, Generative AI, and Large Language Models (LLMs)**
-
-- 📚 Currently Learning
-      - Advanced Prompt Engineering for LLMs (GPT, Gemini, Claude, Llama)
-
-      - MLOps & AI Model Deployment on Cloud
-
-      - Big Data Processing with Apache Beam & Spark
-
-      - Reinforcement Learning & Generative AI
-
+- 🌱 I’m currently working on **LLM-based AI Solutions & Prompt Engineering | Audio Quality Classification using Deep Learning | Exploring MLOps, Generative AI, and Large Language Models (LLMs)**
+   
+- 📚 Currently Learning **Advanced Prompt Engineering for LLMs (GPT, Gemini, Claude, Llama) | MLOps & AI Model Deployment on Cloud | Big Data Processing with Apache Beam & Spark | Reinforcement Learning & Generative AI**
+    
 - 📫 How to reach me **nilamwadhavane123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
